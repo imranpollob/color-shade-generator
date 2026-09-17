@@ -1,0 +1,16 @@
+{
+  "name": "Color Shade Generator",
+  "short_name": "Color Shades",
+  "description": "Generate lighter and darker shades for any hex color instantly.",
+  "start_url": "/color-shade-generator/",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1c902f",
+  "icons": [
+    {
+      "src": "/color-shade-generator/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}

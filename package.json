@@ -2,6 +2,7 @@
   "name": "color-shades",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://imranpollob.github.io/color-shade-generator/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
